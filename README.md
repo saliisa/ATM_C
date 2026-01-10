@@ -12,9 +12,9 @@ Users can:
 - Input Pin, with maximum 3 attempts
   After log in, a menu allows users to choose options which include:
   - Withdraw money
-        - Min amount to withdraw is 20e, Max amount is 1000e
-        - ATM only gives out in 20e and 50e notes; user can withdraw either 20e or 40e or more at intervals of ten (e.g.            50e, 60e, 70e etc)
-        - 
+    - Min amount to withdraw is 20e, Max amount is 1000e
+    - ATM only gives out in 20e and 50e notes; user can withdraw either 20e or 40e or more at intervals of ten (e.g.            50e, 60e, 70e etc)
+    -  
   - Deposit money
   - Query Balance
   - Quit
