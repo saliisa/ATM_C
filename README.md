@@ -1,9 +1,5 @@
 # **ATM C**
 
-The account number is 12345 and the password is the first entry in 12345.acc.
-The program allows the user to log in to this account.
-Once logged in the user has options to withdraw money, deposit money, query balance or quit the program.
-
 ## **System Description**  
 This project is a simple ATM app made in C.
 
@@ -25,11 +21,11 @@ Users can:
 The program utilizes file handling, functions, error checking, 
 
 ## **Demo Account**  
-Account Number: 12345
-Pin: 1234
-Original Balance: 99.90
+Account Number: 12345 <br />
+Pin: 1234 <br />
+Original Balance: 99.90 <br />
 
 ## **Project Files**  
-`ATM.c` - ATM file
+`ATM.c` - ATM file <br />
 `12345.acc` - Account file
 
